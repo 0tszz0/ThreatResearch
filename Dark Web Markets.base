@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Dark Web Markets")
+    order:
+      - file.name
+      - founded
+      - active
+      - shutdown_year
+      - shutdown_reason
+      - products
+      - telegram_channel
+      - onion_link
+    sort:
+      - property: active
+        direction: DESC
+    columnSize:
+      note.products: 667

@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Dark Web Markets.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Dark Web Markets"
+            }
+          },
+          {
+            "id": "d627497b81861a4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Screenshot From 2025-11-21 10-13-29.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot From 2025-11-21 10-13-29"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6d480b9a2d2b178",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c16de1376d00eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9bdb38b6cc62b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58701f7e33322aaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7573723c331be323",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10563195cf50a409",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc73dc5671a0af3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "628d6ebd07f91503",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "b96ec36fbc6d507e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/{{title}} Threat Actor Profile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from  Threat Actor Profile"
+            }
+          },
+          {
+            "id": "91ecfb42ef82209b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5d47a07018652da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "d627497b81861a4f",
+  "lastOpenFiles": [
+    "README.md",
+    "Assets/Screenshot From 2025-11-21 10-05-09.png",
+    "Assets/Screenshot 2025-11-21 at 11.31.50.png",
+    "Dark Web Markets.base",
+    "Dark Web Markets/Genesis.md",
+    "Dark Web Markets/ToRReZ Market.md",
+    "Dark Web Markets/Aurora Market.md",
+    "Dark Web Markets/Vice City.md",
+    "Dark Web Markets/Tor2Door Market.md",
+    "Dark Web Markets/Kingdom Market.md",
+    "Dark Web Markets/World Market.md",
+    "Dark Web Markets/Alphabay.md",
+    "Dark Web Markets/Omicron.md",
+    "Templates/Dark Web Market.md",
+    "Dark Web Markets/Mellow.md",
+    "Dark Web Markets/Torzon Market.md",
+    "Dark Web Markets/WeTheNorth.md",
+    "Dark Web Markets/BidenCash.md",
+    "Dark Web Markets/Russian Market.md",
+    "Dark Web Markets/Brian's Club.md",
+    "Dark Web Markets/Abacus Market.md",
+    "Dark Web Markets/Styx Market.md",
+    "Templates/Campaign.md",
+    "Campaigns/Phishing/Phishing Campaign Impersonating Government Agencies.md",
+    "Dark Web Markets",
+    "URLs & TLDs/URLs/itsolution4india.com.md",
+    "Assets",
+    "Assets/Screenshot From 2025-11-21 10-17-13.png",
+    "Assets/Screenshot From 2025-11-21 10-16-10.png",
+    "Assets/Screenshot From 2025-11-21 10-15-27.png",
+    "Assets/Screenshot From 2025-11-21 10-13-29.png",
+    "Assets/Screenshot From 2025-11-21 10-15-02.png",
+    "Assets/Screenshot From 2025-11-21 10-16-50.png",
+    "Assets/Screenshot From 2025-11-21 10-14-32.png",
+    "Assets/Screenshot From 2025-11-21 10-13-55.png",
+    "URLs & TLDs/URLs/diplomatie.gouv.td.md",
+    "URLs & TLDs/TLDs",
+    "URLs & TLDs/URLs",
+    "URLs & TLDs",
+    "URLs & TLDs/TLDs/td.md",
+    "Campaigns/Phishing",
+    "Templates/Malware.md",
+    "Templates/Daily Log.md",
+    "Threat Actors",
+    "Campaigns",
+    "IOCs"
+  ]
+}
